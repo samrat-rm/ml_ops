@@ -2,6 +2,8 @@
 
 Hands-on repository for experimenting with end-to-end Machine Learning pipelines, model deployment, and interactive Streamlit applications.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=500&lines=MLOps+%26+Pipeline+Engineering;Streamlit+App+Deployment;End-to-End+ML+Workflows)](https://git.io/typing-svg)
+
 ---
 
 ## ⚡ Skills & Tech Stack
