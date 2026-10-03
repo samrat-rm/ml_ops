@@ -4,11 +4,20 @@ Hands-on repository for experimenting with end-to-end Machine Learning pipelines
 
 ---
 
-## 🛠️ Stack & Tools
-* **ML / Data:** `python`, `scikit-learn`, `pandas`, `numpy`
-* **Apps & Deployment:** `streamlit`
-* **MLOps:** `git`, `docker` *(add MLflow / DVC / FastAPI as you go)*
+## ⚡ Skills & Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎯 Key Competencies
+* **MLOps Foundations:** Model artifact versioning, dynamic model loading, continuous experimentation.
+* **UI & Serving:** Interactive web dashboards via Streamlit, REST endpoints, UI state management.
+* **Pipeline Engineering:** Data prep automation, reproducible workflows, clean modular Python packages.
+
+---
 ---
 
 ## 📁 Repository Structure
